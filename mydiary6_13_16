@@ -1,0 +1,28 @@
+diary on
+accumulate(-11)
+
+ans =
+
+     7
+
+accumulate(-20)
+
+ans =
+
+   -13
+
+clear accumulate
+accumulate(17)
+
+ans =
+
+    17
+
+accumulate(3)
+
+ans =
+
+    20
+
+clear accumulate
+diary off

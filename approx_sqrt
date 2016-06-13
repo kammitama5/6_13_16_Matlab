@@ -1,0 +1,19 @@
+approx_sqrt(2)
+ans =
+    1.4142
+sqrt(2)
+ans =
+    1.4142
+approx_sqrt(100)
+ans =
+   10.0001
+sqrt(100)
+ans =
+    10
+approx_sqrt(200)
+ans =
+   14.1454
+sqrt(200)
+ans =
+   14.1421
+diary off

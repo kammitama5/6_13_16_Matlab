@@ -1,0 +1,8 @@
+possum(50)
+sum: 55 count: 10
+ans =
+    10
+sum(1:10)
+ans =
+    55
+diary off
